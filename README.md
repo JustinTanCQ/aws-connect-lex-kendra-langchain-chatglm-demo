@@ -5,14 +5,14 @@
 
 ## 目录说明
 
-## Connect
+### Connect
 包含 Amazon Connect 中联系流的源文件，在 Connect 控制台中导入。
 
-## Lambda
+### Lambda
 包含支持 LangChain(Python) 库的 Lambda Layer 与 Lambda 函数的代码。
 
-## Lex
+### Lex
 包含 Amazon Lex 机器人配置文件，在 Lex 控制台创建机器人时上传。
 
-## LLM
+### LLM
 包含在 Amazon SageMaker 中部署 ChatGLM-6B 的 Jupyter Notebook 和 Python 源代码。
