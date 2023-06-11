@@ -1,7 +1,7 @@
 # Amazon Connect + Kendra + LangChain 构建企业专属智能客服
 
 ## 使用教程：
-
+https://aws.amazon.com/cn/blogs/china/building-intelligent-customer-service-bots-based-on-amazon-connect-lex-kendra-and-langchain/
 
 ## 目录说明
 
